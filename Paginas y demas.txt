@@ -1,0 +1,8 @@
+(ARRAY)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+(ARRAY FIND)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+(ARRAY FOREACH)
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
